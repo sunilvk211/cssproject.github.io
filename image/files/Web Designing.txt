@@ -1,0 +1,103 @@
+# -
+	Web Designing : - 
+	
+	web page 1st , Mr Tim berners lee, 1990 ,geneva, switgerland.
+	CERN, european organization of nuclear research.
+		
+ 	html1
+	html2
+	html3
+	html4
+	html5
+
+	web browser - netscape corporation ...
+
+
+
+	1 Device - internet suport services
+	2 Web Browser - software ,  app . . .
+	3 Web Page - resources = text , image , audio,
+				video , doc file, , ... ./
+	4 Web Site web appli / software - collection of web pages.
+
+	5 ISP : internet service provider    (idea jio airtel bsnl broadband)
+
+	5 Client : process / machine
+	6 Server : process / machine
+
+	7 Web Server : Internet , web app , services provides.
+
+	9 Hosting / Host : provide service of web app , on server
+	
+10 URL : uniform resource locator
+
+https://www.india.gov.in/
+
+http	s		:// www. 			(india).	(gov.in)	/ admin / register
+protocol	secure socket layer		www info system.    domain name	top level domain
+		
+	11 Domain : -
+			.com
+			.in
+			.us
+			.gov + .in / .us / .pk 
+			.org - elicse.org
+			.co axisbank.co
+			.edu 
+
+
+	12 Protocols : Set of rules / instruction to perform perticular task : -
+	Ex: - 
+
+	student : 		
+	friend : 		
+	family :			  
+	
+	http : hyper text transfer portocol
+	tcp - ip : transfer control protocol / internet protocol
+	ftp : file transfer protocol
+
+	smtp : Simple mail transfer protocol
+ 	pop3 : post office protocol ver 3
+
+	open system intercorrection model ... international standardrization orgnization.
+
+	physical layer : - cable , modem,
+	data link  layer : - mac-add , network interface card card ...
+	netowrk layer : - internet network ,fiber,copper ,
+	transfer layer : - data send & receive , packtes , bundle , acknolment without loss of data...
+	session layer : - security provide , encription priovide.
+	presentation layer : - actual content, or pages.
+	application layer : - access app / software / 
+
+
+	# SDLC Software Development Life Cycle
+
+	1. Requirement  /  Ex :- HS shool , 1-12th.
+	2. Analysis 
+	3. Designing :- HTML CSS JS Bootstrap-famework
+	4. Coding : Dynamic Server side Coding : Python , java , php , django
+	5. Testing - App Test.
+	6. Acceptance - App work Sucessfully
+	7. Maintance  - continue.
+
+	Web Develpoment tools :
+
+		Front End : HTML CSS BootStrap JavaScript
+			VS Code, Atom text editor . . .
+		
+		Back End : Java , pyhon , php ...
+				
+	HTML5 : hyper text markup language
+	H - Switch / Link / 
+	T - text 
+	M - design apply, structure view,
+	L - Language
+		
+		:<tag>
+
+		1 Container tag <h1>  x y z </h1>   <table>  abc </table>
+		2 Empty tag <img> <br> <hr> 
+		3 Entity - &; &nbsp; &copy; &lrArr; 
+
+@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@
